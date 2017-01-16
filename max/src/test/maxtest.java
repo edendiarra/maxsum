@@ -26,7 +26,7 @@ public class maxtest {
 					}
 				}
 			}
-			System.out.print("�ִ밪="+nums[5]);	
+			System.out.print("최대값"+nums[5]);	
 			System.out.println("");
 		}
 		else
@@ -44,7 +44,7 @@ public class maxtest {
 				}
 			}
 
-			System.out.print("�ּҰ�="+nums[5]);
+			System.out.print("최소값"+nums[5]);
 
 			
 		}
