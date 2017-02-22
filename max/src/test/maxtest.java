@@ -8,7 +8,7 @@ public class maxtest {
 		int b=20;
 
 	}
-	private static void sort(int[]nums,int check)
+	private static void sort(int a,int b)
 	{
 		int temp=0;
 		a+b=temp;
